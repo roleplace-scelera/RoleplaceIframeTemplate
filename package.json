@@ -1,7 +1,7 @@
 {
   "name": "roleplaceiframetemplate",
   "version": "1.0.0",
-  "description": "Roleplace Iframe Test Utility",
+  "description": "Sandbox for Roleplace Iframe Template",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

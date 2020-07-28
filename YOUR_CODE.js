@@ -1,5 +1,5 @@
 export const YOUR_PROFILE_CODE = () => (`
 <div>
-aaaaa
+Ah, behold! The dreaded black on purple :()
 </div>
 `);
