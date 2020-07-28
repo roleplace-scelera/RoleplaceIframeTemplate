@@ -1,0 +1,20 @@
+#root {
+    display: flex;
+    flex-direction: column;
+    text-rendering: optimizeLegibility;
+    height: inherit;
+    width: inherit;
+    font-size: calc(1em + 1vmin);
+    color: #fff;
+    background-color: #17141f;
+    scrollbar-color: #382f5a #17141f;
+    scrollbar-width: thin;
+}
+
+body {
+  margin: 0!important;
+  width: 100vw;
+  height: 100vh;
+  font-size: 12px;
+  overflow: hidden;
+}
